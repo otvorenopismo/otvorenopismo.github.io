@@ -226,4 +226,4 @@ U potpisu:
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
-Napomena: molimo budite strpljivi, vas potpis ce biti dodan najkasnije par sati nakon potpisivanja (Ne odmah)
+Napomena: molimo budite strpljivi, vas potpis će biti dodan najkasnije par sati nakon potpisivanja
