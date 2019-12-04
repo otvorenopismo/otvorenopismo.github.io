@@ -47,5 +47,26 @@ U potpisu:
 - Sara Muranović, Studentica
 - Hajrija Bajrektarević, Domaćica
 - Merisa Ljubijankic, Student
+- Imad Durmić, Učenik
+- Iman Hodžić, Student
+- Adilajda Omanović, Student Business administration na UniGraz-u,Dobitnica brončane medalje na Golden Climate takmičenju u Keniji
+- Enesa Saric, Master student
+- Amar Pašagić, Učenik Richmon Park College Bihać
+- Nedim Bajramović, Student
+- Nazmiye Tuzen, Profesor
+- Džejlana Karajić, Studentica Informatike na Univerzitetu u Passau
+- Selma Alijagić, Student
+- Ademina Ališić, Učenik 
+- Selma Kurtović, Student
+- Šaćirović Mirsad, Profesor
+- Amna Delić- Ibukić, Učenik
+- Muhamed Ališić, Radnik
+- Senada Ališić, Radnik
+- Sule Afacan, Teacher 
+- Amela Okić, Student
+- Haris Dizdarević, Poduzetnik
+- Fatih Crljenković, Učenik
+- Lorena Lojić, Student
+- Azira Ćerimović, Student
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
