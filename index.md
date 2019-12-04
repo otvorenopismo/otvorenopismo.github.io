@@ -538,4 +538,4 @@ U potpisu:
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
-Napomena: molimo budite strpljivi, vaš potpis će biti dodan najkasnije par sati nakon potpisivanja
+**Radi velikog broja novih potpisa vaš potpis će na listu biti dodan sutra ujutro. Molimo za razumijevanje! Broj potpisa u našoj bazi je trenutno preko 600**
