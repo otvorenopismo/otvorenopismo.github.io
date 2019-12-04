@@ -95,8 +95,6 @@ U potpisu:
 - Dzenita Fazlic, Master student Univerziteta u Augsburgu
 - Hidajeta Đogić , Student
 - Ornela Filipović-Mahmutović, Prosvjetni radnik
-- Azra Melkić, Student master studija na Odsjeku za molekularnu biologiju, Vrije Universiteit Brussel
-- Ornela Filipović-Mahmutović, Prosvjetni radnik
 - Denis Mahmutović, Roditelj učenika koledža
 - Sara Selimagić , Student
 - Amajla Hadžić, Student Arhitektonskog Univerziteta u Sarajevu
