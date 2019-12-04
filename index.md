@@ -284,7 +284,6 @@ U potpisu:
 - Benjamin Dedić, Student 
 - Faris Halilović, Student
 - Muris Bijesovic, Diplomirani Hemijski inzinjer 
-- Muris Bijesovic, Diplomirani Hemijski inzinjer 
 - Nermin Mešanović , Student
 - Hulija Jašaragić, Učenica
 - Adnana Hadžić, Profesor francuskog jezika i književnosti
@@ -318,6 +317,14 @@ U potpisu:
 - Arman Velagić, Student
 - Esad Delić-Ibukić, Profesor
 - Mirela Harbaš-Bećirspahić	Profesor
+- Amina Salihovic, Sanel Salihovic	Roditelji
+- Ramazan Tunc 	Profesor 
+- Zerina Đulović	Student 
+- Mahira Hadžimehmedagić	Profesor, Zamjenik direktora PU "Richmond Park International School  Sarajevo" 
+- Adna Srabovic	student
+- Lidija Alijagic 	Roditelj
+- Adna Srabovic	student
+- Emina Halkić, Radnik
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
