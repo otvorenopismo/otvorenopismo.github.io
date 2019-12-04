@@ -1,4 +1,4 @@
-[Preuzmite PDF Verziju pisma ovdje](https://hello.com)
+###[Preuzmite PDF Verziju pisma ovdje](https://raw.githubusercontent.com/otvorenopismo/otvorenopismo.github.io/master/2019-12-04%20Otvoreno%20Pismo%20Fatih%20keskin.pdf)
 
 *Vodeći se principima demokratije, ljudskosti i oslanjajući se na poštovanje ljudskog dostojanstva, slobode, jednakosti  i ostalih vrijednosti definisanih Ustavom Bosne i Hercegovine i Univerzalne deklaracije o ljudskim pravima, mi, zabrinuti građani, učenici, studenti i prosvjetni radnici objavljujemo:*
 
@@ -16,3 +16,12 @@ Bosanskohercegovačka javnost ima pravo da zna:
 1. Na osnovu čega je gospodin Keskin pozvan na razgovor u Ministarstvo Unutrašnjih Poslova Unsko-Sanskog kantona BiH? 
 2. Zašto je gospodinu Fatihu, nakon hapšenja uskraćeno pravo na viđanje advokata?
 3. Kao razlog oduzimanja boravišne dozvole, navedeno je da gospodin Keskin predstavlja prijetnju javnom redu i nacionalnoj sigurnosti BiH: na koji način je ova prijetnja utvrđena? Koji su konkretno razlozi i postupci gospodina Keskina doprinijeli ovakvoj iznenadnoj odluci?
+
+Različite su i brojne lekcije, te vrijednosti koje su mnoge generacije srednjoškolaca imale priliku naučiti od, prije svega poštenog čovjeka, gospodina Keskina. A najčešće je svojim učenicima govorio da bez obzira koji daljnji put odaberu u svojoj akademskoj karijeri i bez obzira u kakvoj se situaciji njihova domovina nalazila, njihova obaveza je da svoje znanje ulažu u dobrobit i razvitak zajednice i države u kojoj su se rodili. Ali kako ulagati svoju mladost i svoje znanje u državu koja na ovakav način pruža zahvalu čovjeku koji je nesebično posvetio svoj život unaprijeđenju obrazovanja i procesu prenošenja pravih vrijednosti na mlade, u koje se ova država uzda za nadu i budućnost? 
+
+U potpisu:
+
+- Din Ferizović, Student, dobitnik zlatne medalje u kategoriji Informatika, Infomatrix 2017 Rumunija
+- Mirzet Škrgić, Student
+- Amra Muhamedagić, Studentica, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
+- Hasnija Bajrektarević, Studentica
