@@ -1,6 +1,6 @@
 [CLICK HERE FOR ENGLISH](https://raw.githubusercontent.com/otvorenopismo/otvorenopismo.github.io/master/Open%20Letter%20FK.pdf)
 
-[###Preuzmite PDF Verziju pisma ovdje](https://raw.githubusercontent.com/otvorenopismo/otvorenopismo.github.io/master/2019-12-04%20Otvoreno%20Pismo%20Fatih%20keskin.pdf)
+[Preuzmite PDF Verziju pisma ovdje](https://raw.githubusercontent.com/otvorenopismo/otvorenopismo.github.io/master/2019-12-04%20Otvoreno%20Pismo%20Fatih%20keskin.pdf)
 
 
 *Vodeći se principima demokratije, ljudskosti i oslanjajući se na poštovanje ljudskog dostojanstva, slobode, jednakosti  i ostalih vrijednosti definisanih Ustavom Bosne i Hercegovine i Univerzalne deklaracije o ljudskim pravima, mi, zabrinuti građani, učenici, studenti i prosvjetni radnici objavljujemo:*
