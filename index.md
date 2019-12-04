@@ -111,5 +111,37 @@ U potpisu:
 - Bakir Kudić, Medicinski fakultet UNSA, dvostruki dobitnik nagrade Ponos Dekana
 - Muhamed Begić, Učenik
 - Azra Melkić, Student master studija na Odsjeku za molekularnu biologiju, Vrije Universiteit Brussel
+- Edin Dzaferagic, Student
+- Amra Sulić, Profesor
+- Rejhan Sulić, Student
+- Hadžič Senada, Roditelj
+- Irsana Masinovic, Studentica Ekonomskog fakulteta Univerziteta u Grazu, Student 
+- Merjem Štulanović, Studentica Ca' Foscari Univerziteta u Veneciji
+- Emir Crnolić, Master of science in engineering (MSE)
+- Amra Sulić, Profesor
+- Lejla Kurtovic, student
+- Edham Hodžić , Otac četvero djece koji su išli i sada idu na koledž
+- Alem Jaganjac, Profesor
+- Cima Kurtovic, Profesorica
+- Amir Hasic, Otac bivse ucenice 
+- Lejla Brkić, International Burch University, student
+- Adna Kovacevic , International Burch University,student 
+- Senija Bašić Hodzic , Majka červero djece s koledža 
+- Amra Sulić, Profesor
+- Lejla Kurtovic, student
+- Merjem Ramulic, Student
+- Danis Halkić, Student
+- Ahmed Durmić, učenik
+- Jasmina Mujagic, Roditelj
+- Jasmina Mujagic, Roditelj
+- Halida Islamovic, Magistar mikrobiologije
+- Amna Midzic, Student Medicinskog fakulteta Sarajevo
+- Alma Tahrić, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
+- Alem Župa, Student softverskog inženjerstva, tutor - Tehnički univerzitet Beč
+- Nudžejma Kudić, Studentica Biotehnickog fakulteta u Ljubljani
+- Ramiza Boric, Roditelj
+- Halida Islamovic, Magistar mikrobiologije
+- Lejla Kurtovic, Student
+- Amela Tuzlak , Studentica digitalne komunikacije i odnosa s javnošću na Burch univerzitetu 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
