@@ -691,6 +691,7 @@ Potpisuju:
 - Aldin Prijić, Radnik
 - Alijagic Mujaga, Radnik
 - Emir Šabić, Student
+- Suada Ćehić, sekretar Richmond Park College
 
 
 
