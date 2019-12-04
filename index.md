@@ -79,12 +79,12 @@ U potpisu:
 - Mujo Kurtovic	
 - Alijagić Adnan, Student 
 - Sevda Kolubčić, učenica 
-- Ajla Jaganjac, Stomatološki fakultet Sarajevo , student
+- Ajla Jaganjac, Stomatološki fakultet Sarajevo, student
 - Amar Čataković	
 - Benjamin Seferagic, Radnik
 - Emina Eminović, Student
 - Arslan Arnautović, Student međunarodnih odnosa i evropskih studija na Internacionalnom Burch Univerzitetu, novinar
-- Ajla Jaganjac, Stomatološki fakultet Univerziteta u Sarajevu , student
+- Ajla Jaganjac, Stomatološki fakultet Univerziteta u Sarajevu, student
 - Edin Bajramović, Student
 - Nuho Kurtovic, Profesor
 - Besim Mahmutović, Student
@@ -93,10 +93,10 @@ U potpisu:
 - Lejla Hasic, Student Medicinskog fakulteta Univerziteta u Sarajevu
 - Vernes Babić, Student
 - Dzenita Fazlic, Master student Univerziteta u Augsburgu
-- Hidajeta Đogić , Student
+- Hidajeta Đogić, Student
 - Ornela Filipović-Mahmutović, Prosvjetni radnik
 - Denis Mahmutović, Roditelj učenika koledža
-- Sara Selimagić , Student
+- Sara Selimagić, Student
 - Amajla Hadžić, Student Arhitektonskog Univerziteta u Sarajevu
 - Arnela Fazlić, Student
 - Lejla Mahmutović, Student
@@ -118,13 +118,13 @@ U potpisu:
 - Emir Crnolić, Master of science in engineering (MSE)
 - Amra Sulić, Profesor
 - Lejla Kurtovic, student
-- Edham Hodžić , Otac četvero djece koji su išli i sada idu na koledž
+- Edham Hodžić, Otac četvero djece koji su išli i sada idu na koledž
 - Alem Jaganjac, Profesor
 - Cima Kurtovic, Profesorica
 - Amir Hasic, Otac bivse ucenice 
 - Lejla Brkić, International Burch University, student
-- Adna Kovacevic , International Burch University,student 
-- Senija Bašić Hodzic , Majka červero djece s koledža 
+- Adna Kovacevic, International Burch University,student 
+- Senija Bašić Hodzic, Majka červero djece s koledža 
 - Amra Sulić, Profesor
 - Lejla Kurtovic, student
 - Merjem Ramulic, Student
@@ -140,14 +140,14 @@ U potpisu:
 - Ramiza Boric, Roditelj
 - Halida Islamovic, Magistar mikrobiologije
 - Lejla Kurtovic, Student
-- Amela Tuzlak , Studentica digitalne komunikacije i odnosa s javnošću na Burch univerzitetu 
+- Amela Tuzlak, Studentica digitalne komunikacije i odnosa s javnošću na Burch univerzitetu 
 - Spahić Hana, Studentica na Internacionalnom Burch Univerzitetu,Grafički dizajn i multimedija
 - Mirza Hodžić, Student, Medicinski fakultet Sarajevo
 - Elma Samardžić, Student
 - Senada Hadžič, Roditelj
 - Damir Marjanovic, Čovjek, Prof. Dr.
-- Amar Kulenovic , Ucenik
-- Elvira Mustafic-Kulenovic , Dipl. pravnik 
+- Amar Kulenovic, Ucenik
+- Elvira Mustafic-Kulenovic, Dipl. pravnik 
 - Delic Adnan, Student
 - Hasan Zeric, Radnik
 - Firat Meydan, Profesor
@@ -158,11 +158,11 @@ U potpisu:
 - Rabija Osmanagic, Student Karl Franz Univerziteta u Grazu, broncana medalja na International Young Inventors Project Olympiad u Gruziji
 - Fatima Drljačić, Profesor
 - Kenan Nazic, Student
-- Gamze Üpçin , Pr.
+- Gamze Üpçin, Pr.
 - Sara Hodžić, profesor
 - Emir Filipovic, Ucenik RPC
 - Rakovic Mirzet, Student
-- Elvedna Nadarević-Kurić , Roditelj 
+- Elvedna Nadarević-Kurić, Roditelj 
 - Beyza Ersan, Student
 - Duygu Gökçen, Profesorica 
 - Nihat Ersan, Kuhar
@@ -173,8 +173,8 @@ U potpisu:
 - Ajla Dedic, Studentica Medjunarodnih odnosa i europskih studija na Internacionalnom Burch Univerzitetu
 - Duygu Gökçen, Profesorica 
 - Maida Štulanović, Studentica Internacionalnog Burch Univerziteta
-- Semanur Bolu , Student
-- Sarah Hadzic , Student
+- Semanur Bolu, Student
+- Sarah Hadzic, Student
 - Bahar, Student
 - hanife balkan, 
 - Aladin Omanović, Učenik
@@ -184,10 +184,10 @@ U potpisu:
 - Aladin Ćemalović, Učenik
 - Ramiz Balkan, profesor
 - Senad Zulic, Profesor
-- Lamija Kurić , Učenica 
+- Lamija Kurić, Učenica 
 - Senad Zulic, Profesor
 - Amina Durmić, Student, Medicinski fakultet Univerziteta u Sarajevu
-- Büşra Gulmez , Profesor
+- Büşra Gulmez, Profesor
 - Džurejdž Crnkić, nastavnik
 - Selimović Ajla, Studnet
 - Maida Zirić, student,International Burch University 
@@ -196,13 +196,13 @@ U potpisu:
 - Džurejdž Crnkić, nastavnik
 - Sead Pašić, Student
 - Nurcan Genç, Teacher
-- Amela Abdić , Student Prirodno-matematičkog fakulteta u Sarajevu
-- Emir Bajramović , Asistent na Tehničkom fakultetu Univerziteta u Bihaću
-- Ema Smajlović , Student Medicinskog fakulteta Univerziteta u Sarajevu 
+- Amela Abdić, Student Prirodno-matematičkog fakulteta u Sarajevu
+- Emir Bajramović, Asistent na Tehničkom fakultetu Univerziteta u Bihaću
+- Ema Smajlović, Student Medicinskog fakulteta Univerziteta u Sarajevu 
 - Jasin Hodžić, Nastavnik, Zamjenik direktora PU "International Primary School", Sarajevo
 - Bećir Tabaković, Student
 - Džurejdž Crnkić, nastavnik
-- Jasin Hodžić , Nastavnik
+- Jasin Hodžić, Nastavnik
 - Isak Ozturk, Profesor
 - Jasin Hodžić, Nastavnik
 - Mehmet Kolukisa, Profesor
@@ -212,10 +212,10 @@ U potpisu:
 - Hermin Kapetanovic, Direktor Ricmond Park College Sarajevo
 - Armin Muhić, Student
 - Ema Becirovic, Student Medicinskog fakulteta u Sarajevu
-- Mirnes Muminović , Profesor
+- Mirnes Muminović, Profesor
 - Azra Ahmić, Profesor
 - Rabija Hadzimehmedovic, student
-- Danışmaz Ayşenur , Pr.
+- Danışmaz Ayşenur, Pr.
 - Endi Hadžić, Student 
 - Ahmed Masic, Radnik
 - Hadzic Latif, Profesor, magistar islamskih nauka
@@ -233,7 +233,7 @@ U potpisu:
 - Ema Šišić, Učenik
 - Latif Hadzić, Profesor u Sarajevo Koledzu
 - Asim Musić, Student
-- Esad Bajraktarevic , Student
+- Esad Bajraktarevic, Student
 - Ibrić Eldar, Student
 - Ismar Alijagic, Student
 - Sandra Harbaš, Roditelj
@@ -246,11 +246,11 @@ U potpisu:
 - Dzasen Brigic, Teacher
 - Ema Jašaragić, Učenica
 - Admir Đogić, Profesor engleskog jezika
-- Tarik Derdemez , Student
+- Tarik Derdemez, Student
 - Edvin Bećirović, Dipl. inžinjer mašinstva
 - emir mejric, student
 - Dzasen Brigic, Ucenik skole i teacher
-- Elma Salić , Teacher
+- Elma Salić, Teacher
 - Amel Jusufspahić, Student mašinskog fakulteta
 - Selena Hadžić, Studentica, International Burch University
 - Topoljak Ajdin, Student
@@ -266,25 +266,25 @@ U potpisu:
 - Dina Ibrahimagić, 
 - Hana Baltic, Student
 - Adna Musa, Učenica
-- Nadja Bašić , Student 
-- Salih Unverdi , Profesor
+- Nadja Bašić, Student 
+- Salih Unverdi, Profesor
 - Hodžić Lejla, Student
 - Duran Mirza, Student
 - Begzada Kikanović, Službenik
 - Benjamin Dedić, Student 
 - Dina Ibrahimagić, Radnik
 - Edin Rondić, Farmaceut
-- Almina Bašić , Roditelj 
-- Emin Bašić , Roditelj
+- Almina Bašić, Roditelj 
+- Emin Bašić, Roditelj
 - Teufik Kikanović, Penzioner
 - Ervin Harbas, Student
-- Almir Đogić , RADNIK
+- Almir Đogić, RADNIK
 - Armin Goletic, Student
 - Fahir Muminović, Student
 - Benjamin Dedić, Student 
 - Faris Halilović, Student
 - Muris Bijesovic, Diplomirani Hemijski inzinjer 
-- Nermin Mešanović , Student
+- Nermin Mešanović, Student
 - Hulija Jašaragić, Učenica
 - Adnana Hadžić, Profesor francuskog jezika i književnosti
 - Ahmet Grdl, Profesor
@@ -292,7 +292,7 @@ U potpisu:
 - Edhem Hodzic, Student
 - Belma Pehlic, Učenica 
 - Ilhana Eminović, Student
-- Amina Ibrahimkadić , Student 
+- Amina Ibrahimkadić, Student 
 - Jasmina Durić, Profesor Matematike i Infromatike 
 - Adna Kolakovic, Student
 - Emir Hodžić, Student
@@ -301,14 +301,14 @@ U potpisu:
 - Amar Isakovic, Student
 - Anes Hadzic, Radnik
 - Adil Ahmetovic, 
-- Emir , Student
-- Esma Neretljak , Profesor
+- Emir, Student
+- Esma Neretljak, Profesor
 - Hasib Kolaković, Učenik
-- Nedim Hasanovic , Profesor engleskog jezika
+- Nedim Hasanovic, Profesor engleskog jezika
 - Vildana Alibabić, Roditelj bivse učenice koledza
 - Rusmin Dizdar, Student
 - Nedim Gajnulovic, Predsjednik udruzenja masinskih inzinjera u BiH
-- Sabanija Neretljak , Roditelj
+- Sabanija Neretljak, Roditelj
 - Irfan Hošić, Univerzitetski nastavnik
 - Salko Neretljak, Roditelj
 - Aldin Alibegovic, Radnik
@@ -326,7 +326,7 @@ U potpisu:
 - Adna Srabovic	student
 - Emina Halkić, Radnik
 - Mirela Hadžić, Studentica Engleskog jezika i književnosti na Internacionalnom Burch Univerzitetu
-- Aziz Šahbazović , Učenik Koledža Ujedinjenog Svijeta u Mostaru
+- Aziz Šahbazović, Učenik Koledža Ujedinjenog Svijeta u Mostaru
 - Jasminka Bavčić, Srudent na master studiju 
 - Emir Zaimović, Student
 - Lamija Fetic, Student
@@ -343,45 +343,45 @@ U potpisu:
 - Hatice Işık, 
 - Nurhan Akyol, roditelj
 - Betül Akyol, student 
-- Ramazan Tunc , Profesor 
-- Rasima Dedic , Roditelj ucenika koledza
-- Saud Filipović , Roditelj 
+- Ramazan Tunc, Profesor 
+- Rasima Dedic, Roditelj ucenika koledza
+- Saud Filipović, Roditelj 
 - Selma Alibegovic, Radnik
-- Admir Beširević , PMF Sarajevo, asistent
+- Admir Beširević, PMF Sarajevo, asistent
 - Nedžad Ćoralić, roditelj
 - Mehmet Akdogan, Profesor
 - Elkaz Sehic, Roditelj ucenika koledza
 - Albina Ismaili, Ucenik Medicinske skole Bihac
-- İclal Uçkan Kahraman , Student
+- İclal Uçkan Kahraman, Student
 - Dinko Ćemalović, Roditelj
 - Edis Masic, Student
 - Hasičić Asmir, Profesor historije
 - Almir Buljubašić, Nastavnik
 - Tarik Sulić, Nastavnik informatike
 - Dalila D., Nastavnik bosanskog jezika
-- Almir Harbaš , Privatni poduzetnik
+- Almir Harbaš, Privatni poduzetnik
 - Naida Mizdrak, Student
-- Salih Basic , Bivši zaposleni Bosna SEMA obrazovnih instizucija
+- Salih Basic, Bivši zaposleni Bosna SEMA obrazovnih instizucija
 - Melisa Hodzic, Student
-- Elida Hajrulahović , Profesor matematiķe
-- Zemira Dizdarevic , Roditelj
+- Elida Hajrulahović, Profesor matematiķe
+- Zemira Dizdarevic, Roditelj
 - Metin Yılmaz, Profesor 
 - Meliha Skenderovic, student
 - Gorana Dedić, Roditelj
-- Samir Mujkic , Student
+- Samir Mujkic, Student
 - Nedim Hodžić, Student
 - Adna Alijagic, Student
 - Elvira Hadžić, Dipl. pravnik
 - Metin  Yılmaz, Profesor
-- Azur Selimović , Radnik u računovodstvu 
+- Azur Selimović, Radnik u računovodstvu 
 - Muhammed Skenderović, Student
 - Azur Imamović, Student
 - Elma, Student
 - Husejinovic Emina, Profesor engleskog jezika
 - Mirza Ogrić, Profesor
 - Lejla Dautbasic, Student
-- Hasan Okanović , Master Student
-- Amir Bekiroski , Arhitekt 
+- Hasan Okanović, Master Student
+- Amir Bekiroski, Arhitekt 
 - Elma Hodzic, Roditelj 
 - Sefer Osmanagić, učenik
 - Fadil Subašić, Student Mašinskog Fakulteta u Tuzli
@@ -412,14 +412,14 @@ U potpisu:
 - Zeynep Bayazitoglu, Teacher
 - Mehmet Afacan, Profesor
 - Harun Širbegović, Student
-- Bahrudin Trbalic , Student MITa
-- Jasmin Hasić , Student
+- Bahrudin Trbalic, Student MITa
+- Jasmin Hasić, Student
 - Ajla Redžić, Učenica
 - Besim Mušić, Profesor
 - Semir Ćehić, Student
 - Muhamed Memic, student
 - Ajla Redzic, Student
-- Hasan Lafcioglu , Student
+- Hasan Lafcioglu, Student
 - Bećir Đerahović, Privatni poduzetnik, prije svega čovjek 
 - Ramiz Mehmedovic, Roditelj
 - Damir Bešlija, 
@@ -430,19 +430,19 @@ U potpisu:
 - Jasmin Kazaz, radnik
 - Ahmed Hadžipašić, Učenik
 - Aldin Talic, Pedagog
-- Melek Şahin , Student
+- Melek Şahin, Student
 - Zemka Alijagic, Radnik
-- Kvrgic sabir , Student 
-- Melek Şahin , Student 
+- Kvrgic sabir, Student 
+- Melek Şahin, Student 
 - Jasna Pašić, Teacher
 - Admira Alijagic, 
 - Salih Durgutovic, 
 - Harun Arapcic, Poduzetnik
-- Irna Halilović , Studentica
+- Irna Halilović, Studentica
 - Edvin Batakovic, Student
 - Dino Pracic, Doktor medicine
 - Zoran Batakovic, Roditelj
-- Selimovic Arifa, odgajatelj ,radnik 
+- Selimovic Arifa, odgajatelj,radnik 
 - Selcuk Yesilyurt, Direktor Gradevinske firme
 - Fatma selamet, Housewife
 - Ahmed Džinović, Učenik
@@ -454,16 +454,16 @@ U potpisu:
 - Admira Alijagic, Roditelj
 - Arzu Şaşmaz, Öğretmen
 - Amila Djuzelic, Profesor
-- Selma Halilagić , Student 
+- Selma Halilagić, Student 
 - Azra Aličić, Student, UNTZ
 - Alen Ajanović, Profesor
 - Nađa Bašić, Student
-- ALİ ÖZSOY , Profesor 
+- ALİ ÖZSOY, Profesor 
 - Damir Civić, Učenik
 - Adnan Silajdžić, Student
-- Hadžiarapović Ilma , Učenica
+- Hadžiarapović Ilma, Učenica
 - Irma Topić Hamulić, Teacher
-- Ali OZSOY , Profesor 
+- Ali OZSOY, Profesor 
 - Tarik Kanuric, Student na Tehničkom Univerzitetu Graz
 - Jasmin Šarić, Profesor
 - Alpay Akyol, PR. 
@@ -471,23 +471,23 @@ U potpisu:
 - Naila Hadžalić, Student
 - Dr. Adnan Halkic, doktor stomatologije
 - Fahrudin Mehic, radnik, 
-- Mohammed Ali , Student
+- Mohammed Ali, Student
 - Vedad Bacinovic, Student
-- Mehmet Buyukcombak , Professor 
-- Ibrahim Ali , Student na IUS-u
+- Mehmet Buyukcombak, Professor 
+- Ibrahim Ali, Student na IUS-u
 - Amel Fehrić, Profesor
 - Gulsum Ozturk, Roditelja
 - Besima Tursanovic, Pedagog
 - Adnan Kreho, Student
 - Adil Batalevic, Student
 - Emina Hrnjic, Student
-- Anisa Kadric , Profesor 
+- Anisa Kadric, Profesor 
 - Muhamed Torlić, Student
 - Alma Karamujic, Teacher
 - Ajsa Klopic, Dipl.ing.hem.tehnoligije
 - Azra Bektasagic, Poduzetnik
 - Amina Sefić, Student
-- Muhamed Šišić , Student 
+- Muhamed Šišić, Student 
 - Sara, Student
 - Ema Ćoralić, Učenica
 - Nadja cevkič, Student
@@ -502,7 +502,7 @@ U potpisu:
 - Elma Krndžija, Student of International Burch University
 - Amina Čeliković, studentica 
 - Kim nahi	Student
-- Almir khan , Pr
+- Almir khan, Pr
 - Ramo Sulić, Pravnik, otac troje djece koji su završili koledž
 - Amila Dautbašić, Studentica
 - Alice scott, Pr.
@@ -518,13 +518,13 @@ U potpisu:
 - Lejla Komić, Roditelj
 - Yahya, Student
 - Sevda, Student
-- Ahmet Eminoğlu , Student
+- Ahmet Eminoğlu, Student
 - Šahinović Hana, Učenik 
 - Eman Salihovic, Učenik
 - Vanesa Hasić, Roditelj
-- Amila , Student
+- Amila, Student
 - Özcan Şaşmaz, Profesor
-- Sumea Adilagic , Student Pravnog fakulteta u Beču
+- Sumea Adilagic, Student Pravnog fakulteta u Beču
 - Din Salihović, Učenik
 - Ismar Krešo, Učenik
 
