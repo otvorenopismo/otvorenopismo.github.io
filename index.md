@@ -141,5 +141,15 @@ U potpisu:
 - Halida Islamovic, Magistar mikrobiologije
 - Lejla Kurtovic, Student
 - Amela Tuzlak , Studentica digitalne komunikacije i odnosa s javnošću na Burch univerzitetu 
+- Spahić Hana, Studentica na Internacionalnom Burch Univerzitetu,Grafički dizajn i multimedija
+- Mirza Hodžić, Student, Medicinski fakultet Sarajevo
+- Elma Samardžić, Student
+- Senada Hadžič, Roditelj
+- Damir Marjanovic, Čovjek, Prof. Dr.
+- Amar Kulenovic , Ucenik
+- Elvira Mustafic-Kulenovic , Dipl. pravnik 
+- Delic Adnan, Student
+- Hasan Zeric, Radnik
+- Firat Meydan, Profesor
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
