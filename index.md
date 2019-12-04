@@ -44,7 +44,7 @@ U potpisu:
 - Adilajda Omanović	Student
 - Almedin Aldžić, Student
 - Majda Žerić, Učenik srednje škole 
-- Sara Muranović, Studentica
+- Sara Muranović, Učenica
 - Hajrija Bajrektarević, Roditelj
 - Merisa Ljubijankic, Student
 - Imad Durmić, Učenik
@@ -223,6 +223,101 @@ U potpisu:
 - Amina Karamujic, Student
 - Abdulah Kadirić, Učenik 
 - Hanka Kurdic, student
+- Berrin Ozturk, Teacher
+- Latif Hadzić, Profesor u Sarajevo Koledzu
+- Selma Crnkić, Student bioinformatike, University of primorska  Koper
+- Mihrija Suljevic, Pedagog,covjek roditelj
+- Elmir Kurtic, Inzinjer
+- Amir Kalem, Student
+- Enes salihovic, Student
+- Ema Šišić, Učenik
+- Latif Hadzić, Profesor u Sarajevo Koledzu
+- Asim Musić, Student
+- Esad Bajraktarevic , Student
+- Ibrić Eldar, Student
+- Ismar Alijagic, Student
+- Sandra Harbaš, Roditelj
+- Aldin Ahmetović, Radnik
+- Anela Arifi, Student 
+- Muhamed Kovačević, Student
+- Emir Osmic, Student
+- Faris Hasić, Učenik Medicinske škole Bihać
+- Amela Arifi, radnik
+- Dzasen Brigic, Teacher
+- Ema Jašaragić, Učenica
+- Admir Đogić, Profesor engleskog jezika
+- Tarik Derdemez , Student
+- Edvin Bećirović, Dipl. inžinjer mašinstva
+- emir mejric, student
+- Dzasen Brigic, Ucenik skole i teacher
+- Elma Salić , Teacher
+- Amel Jusufspahić, Student mašinskog fakulteta
+- Selena Hadžić, Studentica, International Burch University
+- Topoljak Ajdin, Student
+- Elhana Velić, student
+- Esad Bajramović, Profesor na Univerzitetu u Bihaću
+- Irma Čehaja, Nastavnik
+- Maida Muminovic, Roditelj
+- Ramiz Halilović, Student
+- Faruk Sulić, student
+- Berina Šijerkić, Profesorica
+- Semir Čavkić, Profesor 
+- Najda Causevic, Student
+- Dina Ibrahimagić, 
+- Hana Baltic, Student
+- Adna Musa, Učenica
+- Nadja Bašić , Student 
+- Salih Unverdi , Profesor
+- Hodžić Lejla, Student
+- Duran Mirza, Student
+- Begzada Kikanović, Službenik
+- Benjamin Dedić, Student 
+- Dina Ibrahimagić, Radnik
+- Edin Rondić, Farmaceut
+- Almina Bašić , Roditelj 
+- Emin Bašić , Roditelj
+- Teufik Kikanović, Penzioner
+- Ervin Harbas, Student
+- Almir Đogić , RADNIK
+- Armin Goletic, Student
+- Fahir Muminović, Student
+- Benjamin Dedić, Student 
+- Faris Halilović, Student
+- Muris Bijesovic, Diplomirani Hemijski inzinjer 
+- Muris Bijesovic, Diplomirani Hemijski inzinjer 
+- Nermin Mešanović , Student
+- Hulija Jašaragić, Učenica
+- Adnana Hadžić, Profesor francuskog jezika i književnosti
+- Ahmet Grdl, Profesor
+- Sara Jušić, Učenik
+- Edhem Hodzic, Student
+- Belma Pehlic, Učenica 
+- Ilhana Eminović, Student
+- Amina Ibrahimkadić , Student 
+- Jasmina Durić, Profesor Matematike i Infromatike 
+- Adna Kolakovic, Student
+- Emir Hodžić, Student
+- Žalić Lajla, Učenik
+- Amar Ljubijankic, Student IBU
+- Amar Isakovic, Student
+- Anes Hadzic, Radnik
+- Adil Ahmetovic, 
+- Emir , Student
+- Esma Neretljak , Profesor
+- Hasib Kolaković, Učenik
+- Nedim Hasanovic , Profesor engleskog jezika
+- Vildana Alibabić, Roditelj bivse učenice koledza
+- Rusmin Dizdar, Student
+- Nedim Gajnulovic, Predsjednik udruzenja masinskih inzinjera u BiH
+- Sabanija Neretljak , Roditelj
+- Irfan Hošić, Univerzitetski nastavnik
+- Salko Neretljak, Roditelj
+- Aldin Alibegovic, Radnik
+- Dzemila Begic, pedagog
+- Mersiha Delic-Ibukic, Roditelj
+- Arman Velagić, Student
+- Esad Delić-Ibukić, Profesor
+- Mirela Harbaš-Bećirspahić	Profesor
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
