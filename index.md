@@ -441,6 +441,11 @@ U potpisu:
 - Irna Halilović , Studentica
 - Edvin Batakovic, Student
 - Dino Pracic, Doktor medicine
+- Zoran Batakovic, Roditelj
+- Selimovic Arifa, odgajatelj ,radnik 
+- Selcuk Yesilyurt, Direktor Gradevinske firme
+- Fatma selamet, Housewife
+- Ahmed Džinović, Učenik
 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
