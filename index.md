@@ -383,8 +383,6 @@ U potpisu:
 - Hasan Okanović , Master Student
 - Amir Bekiroski , Arhitekt 
 - Elma Hodzic, Roditelj 
-- Elma Hodzic, Roditelj 
-- Aiša, Student
 - Sefer Osmanagić, učenik
 - Fadil Subašić, Student Mašinskog Fakulteta u Tuzli
 - Fadil Subašić, Student Mašinskog Fakulteta u Tuzli
@@ -398,7 +396,6 @@ U potpisu:
 - Larisa Bajraktarević, Studentica Engleskog jezika International Burch University 
 - Aiša, Učenica
 - Muhammed Hadzalic, student
-- Aiša, Učenica
 - Medina Mahmić, Student
 - Amela Ibrahimagic, Roditelj
 - Amina Paščanović, Student
