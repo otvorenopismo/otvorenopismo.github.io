@@ -25,5 +25,27 @@ U potpisu:
 - Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
 - Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
 - Hasnija Bajrektarević, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
+- Zaim Dedić, Student Menadžmenta na Internacionalnom Burch Univerzitetu u Sarajevu
+- Šejma Omeragić, Učenica
+- Ema Dizdarević, Učenica
+- Amela Veladžić, Profesor
+- Amina Beširović, Profesor
+- Zehra Kantar Keskin, Profesor
+- Fikreta Omeragić, Roditelj
+- Sadam Ali Omeragic, Roditelj
+- Hana Hodžić, Student i Radnik 
+- Harbaš Džejlana, Učenica
+- Abdija Hadžić, Učenik Richmond Park College Bihać 
+- Danis Komić, Student
+- Ali Hozić, Student
+- Vesna Dizdarević, Radnik
+-Raško Dizdarević, Radnik
+-Edina Džaferović, Student 
+-Adilajda Omanović	Student
+-Almedin Aldžić, Student
+-Majda Žerić, Učenik srednje škole 
+-Sara Muranović, Studentica
+-Hajrija Bajrektarević, Domaćica
+-Merisa Ljubijankic, Student
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
