@@ -22,7 +22,7 @@ Bosanskohercegovačka javnost ima pravo da zna:
 
 Različite su i brojne lekcije, te vrijednosti koje su mnoge generacije srednjoškolaca imale priliku naučiti od, prije svega poštenog čovjeka, gospodina Keskina. A najčešće je svojim učenicima govorio da bez obzira koji daljnji put odaberu u svojoj akademskoj karijeri i bez obzira u kakvoj se situaciji njihova domovina nalazila, njihova obaveza je da svoje znanje ulažu u dobrobit i razvitak zajednice i države u kojoj su se rodili. Ali kako ulagati svoju mladost i svoje znanje u državu koja na ovakav način pruža zahvalu čovjeku koji je nesebično posvetio svoj život unaprijeđenju obrazovanja i procesu prenošenja pravih vrijednosti na mlade, u koje se ova država uzda za nadu i budućnost? 
 
-U potpisu:
+Potpisuju:
 
 - Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu, dobitnik zlatne medalje u kategoriji Informatika, Infomatrix 2017 Rumunija
 - Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
@@ -347,7 +347,6 @@ U potpisu:
 - Salih Basic, Bivši zaposleni Bosna SEMA obrazovnih instizucija
 - Melisa Hodzic, Student
 - Elida Hajrulahović, Profesor matematiķe
-- Zemira Dizdarevic, Roditelj
 - Metin Yılmaz, Profesor
 - Meliha Skenderovic, student
 - Gorana Dedić, Roditelj
@@ -450,7 +449,6 @@ U potpisu:
 - Ernad Husic, Fifa manager
 - Naila Hadžalić, Student
 - Dr. Adnan Halkic, doktor stomatologije
-- Fahrudin Mehic, radnik,
 - Mohammed Ali, Student
 - Vedad Bacinovic, Student
 - Mehmet Buyukcombak, Professor
@@ -538,6 +536,163 @@ U potpisu:
 - Vesna Šahbazović, Roditelj
 - Harisa Polutan-Nisic, Profesor
 - Eldvin Hasanovic, Prof.
+- Sumejja Kartal, Student
+- Ahmed Hadžipašić , Učenik
+- Fatma Lafcıoğlu ,
+- Muhamed Kozlica, Student
+- Rejhana Durakovic, ucenik
+- Fatma Lafcıoğlu , Student
+- Sanela Mujic, Teacher
+- Kasim Arnautovic, Prosvjetni radnik
+- Selver Lojic, Ekonomista
+- Benjamin Fetić, Prirodno-matematički fakultet UNSA, nastavnik
+- Selver Lojic, Roditelj
+- Yusuf gurses, Student
+- Züleyha özşahin, Öğretmen
+- Ibrahim Erdogan, Profesor
+- Taner Kocyigit , Teacher
+- Zekeriya , Teacher
+- Ekrem Pehlić, Roditelj
+- Sabina Begic, radnik
+- Selma Seferagic, Farmaceut
+- Hassan Selimovic, ucenik
+- Emira Đerahovic, Profesor
+- Adna Hodžić, Student Medicine na Rheinische-Friedrich-Wilhelms-Universität Bonn
+- Kader Gökyar , Teacher
+- Rizah Gazibara, Radnik
+- Aida Abdičević, Prof. razredne nastave
+- Ajdin Čaušević , ucenik, osvajac srebrne medalje na internacionalnoj GENIUS olimpijadi u New Yorku i bronzane medalje na regionalnom sajmu inovacija u Karlovcu
+- Ahmed Zahirović, Radnik
+- Zerina Hajdarevic, Magistar arhitekture
+- Bahrudin Trbalic , Student MITa
+- Zeliha Dagasan, Teacher
+- Majda Midzic, Bivsa ucenica Una Sana College-a
+- Aiša šahinbegovic, Studentica
+- Lojic Mevlida  penzioner
+- Alma Halilovic, Student
+- Ayse ozgen, Ogretmen
+- Edina Hajdarevic, Roditelj
+- Hamza Mehić, Dipl. inžinjer elektrotehnike
+- Ayse unal, Teacher
+- Senad Dzaferovic, Roditelj
+- Kurtovic Nedzad, Roditelj
+- Amila Šertović, Učenik
+- Amra Duraković, Student
+- Nermina Šertović, Roditelj
+- Zlata Šahinović, Roditelj
+- Elvana Dervisevic , Student
+- Melek Karakaya , Housewife
+- Haris Mašinović, Student
+- Melisa Pintol, Student
+- Ramiz Balkan, Profesor
+- Hamidullah Bayram, Lecturer at IR
+- Dženana Sijamhodžić, Student
+- Jasenko Šertović, Roditelj
+- Naila Hasičić, Nastavnica
+- Sedija Šertović, Majka
+- Nermina Masinovic, Student Zdravstvenih Studija-Radiologija, Tuzla/Ingolstadt
+- Benjamin Mehanovic, Student
+- Betul, Teacher
+- Ayse unal, Ogretmen
+- Edin Hamzić, Nastavnik
+- Belma Lulić , Učenik
+- Arif Gökgöl, Teacher
+- Zijah Humic, Student
+- Nermina Efendić, Roditelj
+- Nermin Efendić,
+- Amal Kljucanin, RADNIK
+- Nedzma Jaganjac, ucenik
+- Edita Ljubijankić,
+- Ilvana Kljajić, Učenik
+- Nermina Efendić, Profesor
+- Semira Mušić-Kapetanović, Odgajatelj
+- Merima Ekmecic, Roditelj
+- Lejla Imširović, Student
+- Selma Imširović, Učenik
+- Mesud Mustedanagić, Mr.sc. dipl.ing mašinstva
+- Sejla Basic, Radnik
+- Haris Horić, Profesor engleskog jezika u RPS Bihać
+- Derlić  Muhamed, Radnik
+- Šeherzada Rošić, Zaposlenik van BiH
+- Vejsil Karamujić, Prostorni planer
+- Armin Rošić, Zasposlenik van BiH
+- Elma Bosnić, Učenica
+- Ekrem Pehlic , roditelj
+- Edina Muratovic Isovic, Dipl.ing.građ.  -roditelj
+- Mirela Horić,
+- Sejo Ivković, Student
+- Sabina Glumčević, dipl ing el
+- Ammar Alidžanović , Učenik osnovne škole
+- Farah Tutić, , Učenik
+- Zemira Dizdarevic, Roditelj
+- Alen Kerić, Učenik
+- Majida Hasković, učenica
+- Jasminka Batakovic, Roditelj
+- Sulejman Mehmedović, Srednjoskolac
+- Sejin Muric, Roditelj
+- Hadžić Fatima, Učenica
+- Tuba , Basak
+- Harun Balagic, Metalostrugar
+- Kerem, Yıldırım
+- Edin Mehmedovic, Ucenik
+- Dzeneta Isić, Diplomirana viša medicinska sestra
+- Amar Medic, Student ekonomije
+- Ekrem Pehlic, roditelj
+- Hasanić, Prof.engleskog jezika
+- Alen Hodžić, Student
+- Ahmed Botonjic, Radnik
+- Enida Zukic, radnik
+- Fatima Hadžić, Učenica
+- Hamza Egrlić, Student
+- Leonardo stankovic,
+- Muhamed Botić, Student
+- Sabaheya Dogic Alickovic, Profesor
+- Sabina Mehic, Doktor medicine
+- Hamdo Tigar, Veteran
+- Enes Aktaş, Biznismen
+- Sara Omerovic , Student
+- Adisa Bolić, student
+- Ahmet Demir, Student
+- Edvin Hrustanovic, Radnik
+- Selma Keranovic, Roditelj
+- Lamija Ćenanović, Dip. pravnik
+- Fuad avdic, Sss
+- nihal  kaya, profesorica
+- Hankija Hadzic, Roditelj
+- Huzeyfe Canbaz, Professor
+- Emir Mrdić, Student
+- Neira Ćehić, Student
+- Azra Selimović , Student
+- Azra Hindija , dipl. ing
+- Hanan Hotic, Ucenik
+- Adnan Palislamovic,
+- Adisa Buzimkic, Učenik
+- Mucahit Tuzen, Prof.Matematika
+- Namir Garib, Student Univerziteta u Ljubljani
+- Demirel Veladzic, Fudbaler
+- Alma Arnautović, Učenik
+- Dzanan Crnkic,
+- Amil, Radnik
+- Sinan Sargın, Student
+- Faris Becic, Student
+- Aldin šehović , Student
+- Senida Sadiković, Student
+- Samira Aličić, Studentica
+- Abdullah aktas, Student,sarajevo
+- Dino Ćehić, Student
+- Amel Kuburovic , Inženjer softvera
+- Nais Kalabić, Pr.
+- Fahrudin Mehic, radnik,
+- Alma Hadzic, Roditelj bivse ucenice
+- Lamija Nikšić, Student
+- Dzenis Merdanovic, Student
+- Sinan Sargın , Master student
+- Ismail Sehic, Ucenik
+- Aldin Prijić, Radnik
+- Alijagic Mujaga, Radnik
+- Emir Šabić, Student
+
+
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
