@@ -1,4 +1,4 @@
-## Otvoreno pismo povodom hapšenja direktora srednje škole Fatiha Keskina
+## Otvoreno pismo povodom hapšenja direktora srednje škole u Bihaću, gospodina Fatiha Keskina
 
 You can use the [editor on GitHub](https://github.com/otvorenopismo/otvorenopismo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
