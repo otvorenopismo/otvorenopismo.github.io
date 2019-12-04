@@ -330,7 +330,27 @@ U potpisu:
 - Jasminka Bavčić, Srudent na master studiju 
 - Emir Zaimović, Student
 - Lamija Fetic, Student
-- Amila Bešić, Bachelor prava 
+- Amila Bešić, Bachelor prava
+- Samira Filipović, Roditelj
+- Hamdija Dogic, Roditelj
+- Mekin Kahraman, Profesor
+- Jovan Bosnjak, Rudar
+- Harun Pirić, Student
+- Senada Fazlic, Radnik
+- Nihad Hadzibegic, Poduzetnik
+- Davor Trlin, Profesor
+- Dino Filipović, Student
+- Hatice Işık, 
+- Nurhan Akyol, roditelj
+- Betül Akyol, student 
+- Ramazan Tunc , Profesor 
+- Rasima Dedic , Roditelj ucenika koledza
+- Saud Filipović , Roditelj 
+- Selma Alibegovic, Radnik
+- Admir Beširević , PMF Sarajevo, asistent
+- Nedžad Ćoralić, roditelj
+- Mehmet Akdogan, Profesor
+- Elkaz Sehic, Roditelj ucenika koledza
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
