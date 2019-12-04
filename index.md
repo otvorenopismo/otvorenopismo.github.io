@@ -21,9 +21,9 @@ Različite su i brojne lekcije, te vrijednosti koje su mnoge generacije srednjo�
 
 U potpisu:
 
-- Din Ferizović, Student, dobitnik zlatne medalje u kategoriji Informatika, Infomatrix 2017 Rumunija
-- Mirzet Škrgić, Student
-- Amra Muhamedagić, Studentica, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
-- Hasnija Bajrektarević, Studentica
+- Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu, dobitnik zlatne medalje u kategoriji Informatika, Infomatrix 2017 Rumunija
+- Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
+- Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
+- Hasnija Bajrektarević, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
