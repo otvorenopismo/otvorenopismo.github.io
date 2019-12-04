@@ -502,6 +502,32 @@ U potpisu:
 - Elma Krndžija, Student of International Burch University
 - Amina Čeliković, studentica 
 - Kim nahi	Student
+- Almir khan , Pr
+- Ramo Sulić, Pravnik, otac troje djece koji su završili koledž
+- Amila Dautbašić, Studentica
+- Alice scott, Pr.
+- Damir lajić, Student
+- Ema hajridzic, Student 
+- Safija guvenovič, Student
+- Nalan Kilci, Teacher
+- Hayriye, Student
+- Nalan Kilci, Teacher
+- Aysenur senadli, 
+- Nalan Kilci, Teacher
+- İsmail, Student 
+- Lejla Komić, Roditelj
+- Yahya, Student
+- Sevda, Student
+- Ahmet Eminoğlu , Student
+- Šahinović Hana, Učenik 
+- Eman Salihovic, Učenik
+- Vanesa Hasić, Roditelj
+- Amila , Student
+- Özcan Şaşmaz, Profesor
+- Sumea Adilagic , Student Pravnog fakulteta u Beču
+- Din Salihović, Učenik
+- Ismar Krešo, Učenik
+
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
