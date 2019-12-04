@@ -45,7 +45,7 @@ U potpisu:
 - Almedin Aldžić, Student
 - Majda Žerić, Učenik srednje škole 
 - Sara Muranović, Studentica
-- Hajrija Bajrektarević, Domaćica
+- Hajrija Bajrektarević, Roditelj
 - Merisa Ljubijankic, Student
 - Imad Durmić, Učenik
 - Iman Hodžić, Student
@@ -68,5 +68,29 @@ U potpisu:
 - Fatih Crljenković, Učenik
 - Lorena Lojić, Student
 - Azira Ćerimović, Student
+- Ikbala Makić, student Univeze na Primorskem u Kopru, dobitnik bronzane medalje na Genius olimpijadi u New Yorku 2016, bronzane medalje na INESPO olimpijadi u Amsterdamu 2017.
+- Adijan Murić, Student
+- Adi Civić	Učenik Richmond Park College Bihać
+- Alibabic Sarah	Student psihologije i dječije psihoanalize Umiverziteta u Beču,  Austrija
+- Rezija Okić	Roditelj
+- Benjamin Gazibara	Učenik
+- Sejad Okić, Roditelj
+- Aladin Music, Student
+- Mujo Kurtovic	
+- Alijagić Adnan, Student 
+- Sevda Kolubčić, učenica 
+- Ajla Jaganjac, Stomatološki fakultet Sarajevo , student
+- Amar Čataković	
+- Benjamin Seferagic, Radnik
+- Emina Eminović, Student
+- Arslan Arnautović, Student međunarodnih odnosa i evropskih studija na Internacionalnom Burch Univerzitetu, novinar
+- Ajla Jaganjac, Stomatološki fakultet Univerziteta u Sarajevu , student
+- Edin Bajramović, Student
+- Nuho Kurtovic, Profesor
+- Besim Mahmutović, Student
+- Sara Dedić, Student
+- Ismar Mahmutović, Učenik Koledža Bihać
+- Lejla Hasic, Student Medicinskog fakulteta Univerziteta u Sarajevu
+
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
