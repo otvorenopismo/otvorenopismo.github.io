@@ -1,5 +1,7 @@
 # Otvoreno pismo povodom hapšenja direktora srednje škole u Bihaću, gospodina Fatiha Keskina
 
+[Preuzmite PDF Verziju pisma ovdje](https://hello.com)
+
 *Vodeći se principima demokratije, ljudskosti i oslanjajući se na poštovanje ljudskog dostojanstva, slobode, jednakosti  i ostalih vrijednosti definisanih Ustavom Bosne i Hercegovine i Univerzalne deklaracije o ljudskim pravima, mi, zabrinuti građani, učenici, studenti i prosvjetni radnici objavljujemo:*
 
 
