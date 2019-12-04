@@ -358,8 +358,55 @@ U potpisu:
 - Hasičić Asmir, Profesor historije
 - Almir Buljubašić, Nastavnik
 - Tarik Sulić, Nastavnik informatike
+- Dalila D., Nastavnik bosanskog jezika
+- Almir Harbaš , Privatni poduzetnik
+- Naida Mizdrak, Student
+- Salih Basic , Bivši zaposleni Bosna SEMA obrazovnih instizucija
+- Melisa Hodzic, Student
+- Elida Hajrulahović , Profesor matematiķe
+- Zemira Dizdarevic , Roditelj
+- Metin Yılmaz, Profesor 
+- Meliha Skenderovic, student
+- Gorana Dedić, Roditelj
+- Samir Mujkic , Student
+- Nedim Hodžić, Student
+- Adna Alijagic, Student
+- Elvira Hadžić, Dipl. pravnik
+- Metin  Yılmaz, Profesor
+- Azur Selimović , Radnik u računovodstvu 
+- Muhammed Skenderović, Student
+- Azur Imamović, Student
+- Elma, Student
+- Husejinovic Emina, Profesor engleskog jezika
+- Mirza Ogrić, Profesor
+- Lejla Dautbasic, Student
+- Hasan Okanović , Master Student
+- Amir Bekiroski , Arhitekt 
+- Elma Hodzic, Roditelj 
+- Elma Hodzic, Roditelj 
+- Aiša, Student
+- Sefer Osmanagić, učenik
+- Fadil Subašić, Student Mašinskog Fakulteta u Tuzli
+- Fadil Subašić, Student Mašinskog Fakulteta u Tuzli
+- Ismet Nadzakovic, Dipl. Ing Saob.
+- Adna Ismailovski, učenica
+- Balić Zinaida, Student
+- Sabrina Sadzak, Nastavnik
+- Esma Ertaş, 
+- Miray Aydın, Student
+- Azra Ibrahimagić, Učenica Richmond Park Škole u Tuzli
+- Larisa Bajraktarević, Studentica Engleskog jezika International Burch University 
+- Aiša, Učenica
+- Muhammed Hadzalic, student
+- Aiša, Učenica
+- Medina Mahmić, Student
+- Amela Ibrahimagic, Roditelj
+- Amina Paščanović, Student
+- Suad Dervišević, Radnik
+- Dženana Kurtalić, Učenik
+- Dženeta Duraković	Student
 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
-Napomena: molimo budite strpljivi, vas potpis će biti dodan najkasnije par sati nakon potpisivanja
+Napomena: molimo budite strpljivi, vaš potpis će biti dodan najkasnije par sati nakon potpisivanja
