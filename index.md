@@ -325,6 +325,12 @@ U potpisu:
 - Lidija Alijagic 	Roditelj
 - Adna Srabovic	student
 - Emina Halkić, Radnik
+- Mirela Hadžić, Studentica Engleskog jezika i književnosti na Internacionalnom Burch Univerzitetu
+- Aziz Šahbazović , Učenik Koledža Ujedinjenog Svijeta u Mostaru
+- Jasminka Bavčić, Srudent na master studiju 
+- Emir Zaimović, Student
+- Lamija Fetic, Student
+- Amila Bešić, Bachelor prava 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
