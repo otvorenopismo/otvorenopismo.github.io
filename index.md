@@ -91,6 +91,25 @@ U potpisu:
 - Sara Dedić, Student
 - Ismar Mahmutović, Učenik Koledža Bihać
 - Lejla Hasic, Student Medicinskog fakulteta Univerziteta u Sarajevu
-
+- Vernes Babić, Student
+- Dzenita Fazlic, Master student Univerziteta u Augsburgu
+- Hidajeta Đogić , Student
+- Ornela Filipović-Mahmutović, Prosvjetni radnik
+- Azra Melkić, Student master studija na Odsjeku za molekularnu biologiju, Vrije Universiteit Brussel
+- Ornela Filipović-Mahmutović, Prosvjetni radnik
+- Denis Mahmutović, Roditelj učenika koledža
+- Sara Selimagić , Student
+- Amajla Hadžić, Student Arhitektonskog Univerziteta u Sarajevu
+- Arnela Fazlić, Student
+- Lejla Mahmutović, Student
+- Ayse Erdogan, Profesor
+- Sara Dedic, Student
+- Irsana Masinovic, Studentica Ekonomskog fakulteta u Grazu 
+- Selami Bingol, Profesor
+- Amar Kovačević, Student
+- Tarik Ibrahimpašić, Student Tehničkog Univerziteta u Minhenu
+- Bakir Kudić, Medicinski fakultet UNSA, dvostruki dobitnik nagrade Ponos Dekana
+- Muhamed Begić, Učenik
+- Azra Melkić, Student master studija na Odsjeku za molekularnu biologiju, Vrije Universiteit Brussel
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
