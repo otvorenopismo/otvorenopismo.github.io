@@ -26,4 +26,4 @@ U potpisu:
 - Amra Muhamedagić, Studentica, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
 - Hasnija Bajrektarević, Studentica
 
-[Postanite potpisnik klikom na link: OVDJE] (https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
+[Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
