@@ -405,7 +405,30 @@ U potpisu:
 - Suad Dervišević, Radnik
 - Dženana Kurtalić, Učenik
 - Dženeta Duraković	Student
-
+- Ibrahim Ertas, Profesor 
+- Guler Kemanci, Business Administration 
+- Merjem Bešić, učenica
+- Prof dr sc Mirela Duranovic, Redovni profesor Edukacijako-rehabilitacijski fakultet Univerziteta u Tuzli
+- Faris Colakhodzic, Student 
+- Kinal mehmed, Pr
+- Kinal mehmed, Pr
+- Zeynep Bayazitoglu, Teacher
+- Mehmet Afacan, Profesor
+- Harun Širbegović, Student
+- Bahrudin Trbalic , Student MITa
+- Jasmin Hasić , Student
+- Ajla Redžić, Učenica
+- Besim Mušić, Profesor
+- Semir Ćehić, Student
+- Muhamed Memic, student
+- Ajla Redzic, Student
+- Hasan Lafcioglu , Student
+- Bećir Đerahović, Privatni poduzetnik, prije svega čovjek 
+- Ramiz Mehmedovic, Roditelj
+- Damir Bešlija, 
+- Fatimka Mehmedovic, Roditelj
+- Ismar Kreso, Učenik
+- Muharem Zec, Student
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
