@@ -4,8 +4,6 @@
 
 ### Otvoreno pismo povodom hapšenja direktora srednje škole u Bihaću, gospodina Fatiha Keskina
 
-##Poštovani INSTITUCIJA,
-
 Poštovana Službo za poslove sa strancima,
 
 \03. decembra, nakon upućenog poziva na razgovor od strane Ministarstva Unutrašnjih Poslova Unsko-sanskog kantona, Fatih Keskin, direktor Richmond Park škole u Bihaću, lišen je slobode. Gospodin Keskin je državljanin Republike Turske koji je do jučer imao stalno pravo boravka u Bosni i Hercegovini. Samo par sati kasnije, bez viđanja sa advokatom, gospodin Keskin je transportovan u imigracioni centar u Istočnom Sarajevu. 04. decembra Služba za poslove sa strancima BiH ukida boravišnu dozvolu gospodina Keskina, na osnovu prijetnji po sigurnost i javni mir.
@@ -15,6 +13,6 @@ Kako smo mi, ispod potpisani građani, imali priliku upoznati gospodina Keskina,
 Zbog svega navedenog pozivamo Službu za strance da bosanskohercegovačkoj javnosti objasni zašto je gospodin Keskin lišen slobode. 
 
 Bosanskohercegovačka javnost ima pravo da zna:
-Na osnovu čega je gospodin Keskin pozvan na razgovor u Ministarstvo Unutrašnjih Poslova Unsko-Sanskog kantona BiH? 
-Zašto je gospodinu Fatihu, nakon hapšenja uskraćeno pravo na viđanje advokata?
-Kao razlog oduzimanja boravišne dozvole, navedeno je da gospodin Keskin predstavlja prijetnju javnom redu i nacionalnoj sigurnosti BiH: na koji način je ova prijetnja utvrđena? Koji su konkretno razlozi i postupci gospodina Keskina doprinijeli ovakvoj iznenadnoj odluci?
+1. Na osnovu čega je gospodin Keskin pozvan na razgovor u Ministarstvo Unutrašnjih Poslova Unsko-Sanskog kantona BiH? 
+2. Zašto je gospodinu Fatihu, nakon hapšenja uskraćeno pravo na viđanje advokata?
+3. Kao razlog oduzimanja boravišne dozvole, navedeno je da gospodin Keskin predstavlja prijetnju javnom redu i nacionalnoj sigurnosti BiH: na koji način je ova prijetnja utvrđena? Koji su konkretno razlozi i postupci gospodina Keskina doprinijeli ovakvoj iznenadnoj odluci?
