@@ -446,7 +446,62 @@ U potpisu:
 - Selcuk Yesilyurt, Direktor Gradevinske firme
 - Fatma selamet, Housewife
 - Ahmed Džinović, Učenik
-
+- Emina Vuković, Učenik
+- Leila Tagić, Studentica
+- Miralem Dautović, Čovjek
+- Asim Dizdarević, Roditelj
+- Alma S., student 
+- Admira Alijagic, Roditelj
+- Arzu Şaşmaz, Öğretmen
+- Amila Djuzelic, Profesor
+- Selma Halilagić , Student 
+- Azra Aličić, Student, UNTZ
+- Alen Ajanović, Profesor
+- Nađa Bašić, Student
+- ALİ ÖZSOY , Profesor 
+- Damir Civić, Učenik
+- Adnan Silajdžić, Student
+- Hadžiarapović Ilma , Učenica
+- Irma Topić Hamulić, Teacher
+- Ali OZSOY , Profesor 
+- Tarik Kanuric, Student na Tehničkom Univerzitetu Graz
+- Jasmin Šarić, Profesor
+- Alpay Akyol, PR. 
+- Ernad Husic, Fifa manager
+- Naila Hadžalić, Student
+- Dr. Adnan Halkic, doktor stomatologije
+- Fahrudin Mehic, radnik, 
+- Mohammed Ali , Student
+- Vedad Bacinovic, Student
+- Mehmet Buyukcombak , Professor 
+- Ibrahim Ali , Student na IUS-u
+- Amel Fehrić, Profesor
+- Gulsum Ozturk, Roditelja
+- Besima Tursanovic, Pedagog
+- Adnan Kreho, Student
+- Adil Batalevic, Student
+- Emina Hrnjic, Student
+- Anisa Kadric , Profesor 
+- Muhamed Torlić, Student
+- Alma Karamujic, Teacher
+- Ajsa Klopic, Dipl.ing.hem.tehnoligije
+- Azra Bektasagic, Poduzetnik
+- Amina Sefić, Student
+- Muhamed Šišić , Student 
+- Sara, Student
+- Ema Ćoralić, Učenica
+- Nadja cevkič, Student
+- Nida khan, Student
+- Mak Sceta, Muzicki Producent, Student
+- Ajla Šahinović, Student psihologije, Univerzitet u Ljubljani 
+- Alija zendovič, Pr.
+- Dinno Koluh, Student
+- John cumberg, Pr
+- Jasmina fetič, Radnik
+- Elma Krndžija, Student of International Burch University
+- Elma Krndžija, Student of International Burch University
+- Amina Čeliković, studentica 
+- Kim nahi	Student
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
