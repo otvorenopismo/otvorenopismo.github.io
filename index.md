@@ -39,13 +39,13 @@ U potpisu:
 - Danis Komić, Student
 - Ali Hozić, Student
 - Vesna Dizdarević, Radnik
--Raško Dizdarević, Radnik
--Edina Džaferović, Student 
--Adilajda Omanović	Student
--Almedin Aldžić, Student
--Majda Žerić, Učenik srednje škole 
--Sara Muranović, Studentica
--Hajrija Bajrektarević, Domaćica
--Merisa Ljubijankic, Student
+- Raško Dizdarević, Radnik
+- Edina Džaferović, Student 
+- Adilajda Omanović	Student
+- Almedin Aldžić, Student
+- Majda Žerić, Učenik srednje škole 
+- Sara Muranović, Studentica
+- Hajrija Bajrektarević, Domaćica
+- Merisa Ljubijankic, Student
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
