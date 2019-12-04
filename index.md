@@ -426,6 +426,22 @@ U potpisu:
 - Fatimka Mehmedovic, Roditelj
 - Ismar Kreso, Učenik
 - Muharem Zec, Student
+- Džanita Džanić, Profesor
+- Jasmin Kazaz, radnik
+- Ahmed Hadžipašić, Učenik
+- Aldin Talic, Pedagog
+- Melek Şahin , Student
+- Zemka Alijagic, Radnik
+- Kvrgic sabir , Student 
+- Melek Şahin , Student 
+- Jasna Pašić, Teacher
+- Admira Alijagic, 
+- Salih Durgutovic, 
+- Harun Arapcic, Poduzetnik
+- Irna Halilović , Studentica
+- Edvin Batakovic, Student
+- Dino Pracic, Doktor medicine
+
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
