@@ -24,12 +24,13 @@ Različite su i brojne lekcije, te vrijednosti koje su mnoge generacije srednjo�
 
 Potpisuju:
 
-- Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu
-- Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
-- Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu
-- Hasnija Bajrektarević, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
-- Zaim Dedić, Student Menadžmenta na Internacionalnom Burch Univerzitetu u Sarajevu
-- Šejma Omeragić, Učenica
+1. Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu
+1. Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
+1. Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu
+1. Hasnija Bajrektarević, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
+1. Zaim Dedić, Student Menadžmenta na Internacionalnom Burch Univerzitetu u Sarajevu
+
+1. Šejma Omeragić, Učenica
 - Ema Dizdarević, Učenica
 - Amela Veladžić, Profesor
 - Amina Beširović, Profesor
