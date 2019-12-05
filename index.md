@@ -24,9 +24,9 @@ Različite su i brojne lekcije, te vrijednosti koje su mnoge generacije srednjo�
 
 Potpisuju:
 
-- Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu, dobitnik zlatne medalje u kategoriji Informatika, Infomatrix 2017 Rumunija
+- Din Ferizović, Student Informatike na Univerzitetu RWTH u Aachenu
 - Mirzet Škrgić, Student Medicine na Univerzitetu u Sarajevu
-- Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu, srebrna medalja na BOSEPO olimpijadi u kategoriji okoliš, plasman na takmičenje Golden Climate u Keniji
+- Amra Muhamedagić, Studentica Arhitekture na Univerzitetu u Sarajevu
 - Hasnija Bajrektarević, Studentica Genetike i Bioinžinjeringa na Internacionalnom Burch Univerzitetu u Sarajevu
 - Zaim Dedić, Student Menadžmenta na Internacionalnom Burch Univerzitetu u Sarajevu
 - Šejma Omeragić, Učenica
@@ -93,7 +93,6 @@ Potpisuju:
 - Besim Mahmutović, Student
 - Sara Dedić, Student
 - Ismar Mahmutović, Učenik Koledža Bihać
-- Lejla Hasic, Student Medicinskog fakulteta Univerziteta u Sarajevu
 - Vernes Babić, Student
 - Dzenita Fazlic, Master student Univerziteta u Augsburgu
 - Hidajeta Đogić, Student
@@ -319,7 +318,6 @@ Potpisuju:
 - Mekin Kahraman, Profesor
 - Jovan Bosnjak, Rudar
 - Harun Pirić, Student
-- Senada Fazlic, Radnik
 - Nihad Hadzibegic, Poduzetnik
 - Davor Trlin, Profesor
 - Dino Filipović, Student
@@ -552,7 +550,6 @@ Potpisuju:
 - Ibrahim Erdogan, Profesor
 - Taner Kocyigit , Teacher
 - Zekeriya , Teacher
-- Ekrem Pehlić, Roditelj
 - Sabina Begic, radnik
 - Selma Seferagic, Farmaceut
 - Hassan Selimovic, ucenik
@@ -1035,6 +1032,116 @@ Potpisuju:
 - Nermina Kurtalic, Roditelj
 - Merjema Kovacevic , Farmaceut
 - Sezai Eski, Profesor
+- Selçuk ÇOBANOĞLU, Student
+- Nelvira Zolic, Tetka od Ucenika
+- Fatih Turan, Dr.
+- Jasmina Cehajic, Dip.san.ing.
+- Nedžma Džananović, Student
+- Muhamed Selimovic, Roditelj bivše učenice koledža
+- Sahin Hilal, Student
+- Edin Kadric, Prof. Islamskih nauka
+- Esma Muzaferović, Student
+- Emir Mujakic, Student
+- Gündüz , Teacher
+- Edna Abaspahić, Student Internacionalnog Burč Univerziteta u Sarajevu
+- David Marušić, Student
+- Abdic Edisa, Roditelj
+- Muammer ormek, Teacher
+- Amina Galijašević, Učenica
+- Samra Beganović , Učenica
+- Sabina Okanović, Učenica
+- Anela Uzunović, Socijalni radnik
+- Rabija Uzunović, Penzioner
+- Orhan Hadžagić, Novinar
+- Mukadesa Camovic Dzananovic, ekonomista
+- Alibabić Elvisa,
+- Amra, Učenik
+- Sanja Salihović, Student
+- Senada Camović, Radnik
+- Edita Kasić,
+- Mirela Pamuk-Becic, ,
+- Nermina Museta,
+- Aldina Selimović, Pravnik
+- Seada Srna,
+- Haris Kahriman, Učenik
+- Meliha Nurkic, prof
+- Emir Mulic, IT teacher
+- Emre Kaya, Teacher
+- Ekrem Kaya, Student
+- Cemil balci, İşçi
+- Amna Arnautović, Student
+- Lejla Mirela Saric, Roditelj
+- Tija Karabašić, Učenik RPC Bihać
+- Zahira Husic, Roditelj
+- Sabahudin Džemić, Direktor RPS Zenica
+- Sara Halkic, Učenica
+- Azra Mustafić, Dipl.ecc
+- Amna Pehadžić, Učenik
+- Arnela Music, Roditelj
+- Nurcan Karaosman , Domaćica
+- Şule Kabar, Student
+- Anida Čamdžić, Nastavnik engleskog jezika
+- Hena Oruč, Student
+- Jasmina Ćorsulić, Profesor njemačkog jezika
+- Amar Pljakic, Ucenik
+- APTUL METIN CETIN, TEACHER
+- Oguzhan Yusufi, Student
+- Davud Topalović, student
+- Hümeyra gokcen, Student
+- Sead Ladjarevic , Nastavnik
+- Aida Hodžić-Hajder, Roditelj
+- Anita Vuković, Roditelj
+- Adnan Vukovic, Roditelj
+- Seyran, Roditelja
+- Sabina Celebic, ucitelj
+- Tunahan Inan, Teacher
+- Emina Kekić , Učenik
+- Amel Kajević, dpl.iur
+- Hasnija Filipović, Penzioner
+- Ibrahim Filipović, Penzioner
+- Ajla Šehanović, Student
+- Tarik Rekić, Učenik
+- Mehmet , Bal
+- Šejla Karabašić, Roditelj
+- Corovic Denis, Prof.
+- Şükrettin Aslanoğlu, radnik
+- Melek Çetin, Student
+- Muhammet Selim Çetin, student
+- Ayşenur Çetin, Housewife
+- Serife Ulker Karatas, Former profesor
+- Sofija Ilić , Student
+- Izet Hajrović, Nogometaš
+- Leyla Hajrović, Dizajnerica
+- Aysenur Danismaz , Profesor
+- Selma Halilagić , Student
+- Ayşenur Danışmaz, Profesor
+- Melisa Balkic , Student
+- Neira Dzananovic, Student
+- Muhammet Bahce, Professor
+- Ahmet celik, Academician
+- Asmir Alibabic, Roditelj
+- Selvi Zişan Doğan, Teacher
+- Enisa Kalfic, Student
+- Olivera Mekinjic, Roditelj
+- Humeyra Gokcen , Student
+- Ibrahim Filipovic ,
+- Izeta Seferović, Radnik
+- Ibrahim Filipovic  penzioner,
+- Hata Semanic,
+- Fatima Rekanovic - Nuhic,
+- Aldina Kasupovic,
+- Grbić Arslan, Student
+- Serkan Dogan, Prof. Dr.
+- Maida Mirvić, Nastavnik
+- Nedžad Beća, Advokat
+- Almira Harbaš, Magistar biologije, mikrobiologija
+- Vesna  Dogic, Roditelj
+- Amir Bekiroski , Arhitekt iz Makedonije
+- Hadzic Sanjin, Arhitekta
+- Abdić Edisa, Roditelj
+- Armin Kalfić, Student
+- Edisa Avdic-El Bechnak, Radnik
+- Melisa Seferagić 	Student, radnik
 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
