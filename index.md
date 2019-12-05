@@ -1024,7 +1024,7 @@ Potpisuju:
 - Azur Kapidžić , Roditelj
 - Dženana Kapidžić , Roditelj
 - Handanagic Alma, Roditelj
-- Huseyin karasu, Prof.
+- Huseyin Karasu, Prof.
 - Ismar Hambelić, ing. saob.
 - Fatima Rekanovic-Nuhic, Roditelj
 - Elma Hadžimuratović, Čovjek
