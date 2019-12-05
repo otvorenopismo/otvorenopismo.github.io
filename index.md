@@ -243,7 +243,6 @@ Potpisuju:
 1. Irma Čehaja, Nastavnik
 1. Maida Muminovic, Roditelj
 1. Ramiz Halilović, Student
-1. Faruk Sulić, student
 1. Berina Šijerkić, Profesorica
 1. Semir Čavkić, Profesor
 1. Najda Causevic, Student
@@ -498,11 +497,9 @@ Potpisuju:
 1. Amila, Student
 1. Özcan Şaşmaz, Profesor
 1. Sumea Adilagic, Student Pravnog fakulteta u Beču
-1. Din Salihović, Učenik
 1. Ismar Krešo, Učenik
 1. Edin Hodžić, Student
 1. Faruk Ćidić, Student i radnik
-1. Murat Kaya, Teacher
 1. Hasiba , Student
 1. Sead Ahmic, Dipl.ecc
 1. Mersima Strika, profesor
@@ -672,7 +669,6 @@ Potpisuju:
 1. Amil, Radnik
 1. Sinan Sargın, Student
 1. Faris Becic, Student
-1. Aldin šehović , Student
 1. Senida Sadiković, Student
 1. Samira Aličić, Studentica
 1. Abdullah aktas, Student,sarajevo
@@ -909,7 +905,6 @@ Potpisuju:
 1. Zlatan Šarganović, Roditelj
 1. Haris Mulalić, student
 1. Ajša Dedić, Učenica
-1. Ermina Melunovic, Roditelj
 1. Amila Novalic , Student
 1. Medina Hasić, Teacher
 1. Zejneb Hadzic,
@@ -1142,6 +1137,110 @@ Potpisuju:
 1. Armin Kalfić, Student
 1. Edisa Avdic-El Bechnak, Radnik
 1. Melisa Seferagić 	Student, radnik
+1. Safet Husić, prosvjetni radnik
+1. Semir Cukle, Radnik
+1. Benjamin Viteškić, Student
+1. Mehmet caliskan, Ingenier
+1. Mehmet Gürbüz , Engineer
+1. Murat Eser , Teacher
+1. Salih Karakum, Ingenieuren
+1. Vesna Begić , Privatni djelatnik
+1. Ćehajić Elemedin, Roditelj
+1. Emir Šabić, Učenik
+1. Ibrahim Uyar , Student
+1. Ensar Ćidić, Učenik
+1. Faruk Sulić, student
+1. Mersid Poturak , Univerzitetski profesor
+1. Omer Hrnjić, Učenik
+1. Kenan Viteškić, Učenik
+1. Džana Aldžić, Student
+1. Ema, Učenik
+1. Ermina Melunovic, Roditelj
+1. Amina Salihovic, Roditelj
+1. Sanel Salihović, Roditelj
+1. Adema Sarajlija , Student Prirodno-matematičkog fakulteta, Sarajevo
+1. Eman Salihović, Učenik
+1. Din Salihović, Učenik
+1. Edina Hodžić, Student
+1. Endi Mizić, Student
+1. Ermin Mizić, Radnik
+1. Endira Mizić, Radnik
+1. Alijagic Mirsada, Radnik
+1. Masinovic Jasmina , Student
+1. Muhamed Tutić, učenik
+1. Mehmet D. Topal, Lehrer
+1. Kasupovic Senad, RVI
+1. Arnina Dizdarević, Roditelj
+1. Amina Dizdarević, Student
+1. Nilufer Grdl, Profesor
+1. Osman Šestan, Socijalni pedagog
+1. Merjem Hodžić , Učenik
+1. Selma Imamović, Student med.lab.dijagnostike
+1. Mustafa Çevik  Emekli
+1. Jasmin Hamzic, Radnik
+1. Edin Mušija, Radnik
+1. Dino Sarađan, , United World College in Mostar
+1. Jasna Saračević, Nastavnik
+1. Medina Kurta, Student
+1. Hasan Muharemović, Student
+1. Nermin Hajric, Student
+1. Edin Hadzic , Student
+1. Crnkić Fikret,
+1. Ayşegül Kara, Student
+1. Mesut Dogan, Teacher
+1. Jasmina Neretljak, Roditelj
+1. Serbest kalmalı, Avukat
+1. Harun Husejnovic, Student
+1. Rahman Nocic, Dipl.ecc
+1. Dino Melunovic, Student
+1. Elvis Fajkovic, Roditelj
+1. Yusuf, Teacher
+1. Tekin Tekiner, Teacher
+1. Sara Delić-Ibukić, učenik
+1. Belma Klicic,  MSc. of Mathematics , Matematicar, Bankarski Risk Manager
+1. Edita Delić-Ibukić, roditelj
+1. Mersad Osmicevic, Roditelj
+1. Mehrudin Delić-Ibukić, Roditelj
+1. Alma Šušnjar, Odgajateljica u Richmond Park Preschool
+1. Asmira Herić, Student
+1. Sara Mujanovic, Srednjoskolac
+1. Ensar Kajtezovic, Srednjoskolac
+1. Lejla Ćehić , Učenica
+1. Hakan Aktas, Bürokaufmann
+1. Sajra Pečenković, Student
+1. Irvin Hadzic, Srednjoskolac
+1. Pečenković Lamia, učenica
+1. Mevludin Melunovic, Dipl.siciolog, roditelj...
+1. Abdurrahman Toksöz, Teacher
+1. Aldin Saračević, Učenik
+1. Armin Mujic,
+1. Ahmed Posavljak , Dipl.ing. Proizvodnje
+1. Hüseyin Selam, Teacher
+1. Hasic Mirnes, Student
+1. Manuela Alagić, učenica
+1. Anesa Hodžić, Srednjoškolac
+1. Sabina Hujić , Učenik
+1. Mirzet Selimovic, roditelj
+1. Marko Milinčić, Student
+1. Samira Filipović , Roditelj
+1. Emin Brkić, Srednjoškolac
+1. Muhamed Avdispahic, Student
+1. Emina Havić, Učenik
+1. Aldin šehović , Student
+1. Mia Osmanagić, učenica
+1. Armin Mujic, Student Ftos-a Tuzla
+1. Belma Mekanovic, Ucenik
+1. Almen Patković, Student
+1. Sead Pekaric, Student
+1. Adna Keserović, Učenica JU Gimnazija Velika Kladuša
+1. Suheyl yilmaz, Profesor
+1. Hamzic Hasan, Radnik
+1. Murat Kaya, Teacher
+1. Tarik Arnaut, Student
+1. Hodzic Almir, Privatnik
+1. Taha Leblebi, Engineer
+1. Amina Kauković, student
+1. Ajla Latic, Student
 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
