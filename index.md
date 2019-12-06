@@ -1242,8 +1242,51 @@ Potpisuju:
 1. Amina Kauković, student
 1. Ajla Latic, Student
 1. Mujic Amir, Student
+1. Metin Madsar, Worker
+1. Alma Kantardžić, Dr stomatologije
+1. Lejla Nakicevic , Student 
+1. Kenan Sarajlic, Network administrator 
+1. Abdusselam Civić, Ucenik
+1. Matea Šantić, Srednjoškolac
+1. Harun Hadžić, Učenik 
+1. Marko Jelovac, Učenik
+1. Zoran Kristo, Student
+1. Ensara Delić, student
+1. Sara Prošić, učenica
+1. OSMAN OSMANOGLU, 
+1. Mesut Karatas (Teacher), 
+1. Nevsada Kulic Kurtovic, Radnik
+1. Amina Corovic, Inzenjer arhitekture
+1. Amel Tuka, Atletičar
+1. Mevlida Sulejmanagić, Majka učenika
+1. Sulejman Sulejmanagić, Radnik
+1. Nasiha Dautović, Radnik
+1. Ramo Dautović, Penzioner
+1. Nakija Zjakić, Penzioner
+1. Teta Meliha, Odgajatelj R.P.P.S.
+1. Aleksandra Sekulovic, Ucenica
+1. Mustafa Avci, Arhitekt
+1. Maja Grigic, Radnik
+1. Alma Kurdija, Radnik
+1. Amer Kurtović, MA student međunarodnih odnosa i evropskih integracija
+1. Ricardo Kartal, Ingenieur
+1. Irfan Djedović, ekonomista
+1. Hasib Gabeljić , Radnik
+1. Fahrudin Malanović, Radnik
+1. Kenan Delalić, 
+1. Kurtovic Ismedina, Student
+1. Aldin Sinanović, Pedagog
+1. Mehmet karsli, Prof.
+1. Mihreta Okanovic, Profesor
+1. Kerim Ćenanović, Student
+1. Erdinç Demirok, Web Developer
+1. Muranovic Lejla, Roditelj
+1. Muranovic Samir, Roditelj
+1. Ebubekir Bayazitoglu , Businessman 
+1. Mujkić Alma, Roditelj
+1. Paola Lucchesi, Prevodioc, writer, predsjednik udruženja. Strana državljanka u BiH.
 
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
-**Radi velikog broja novih potpisa vaš potpis će na listu biti dodan sutra ujutro. Molimo za razumijevanje! U našoj bazi je trenutno registrovano oko 1100 potpisnika**
+**Radi velikog broja novih potpisa vaš potpis će na listu biti dodan sutra ujutro. Molimo za razumijevanje! U našoj bazi je trenutno registrovano oko 1200 potpisnika**
