@@ -1285,8 +1285,209 @@ Potpisuju:
 1. Ebubekir Bayazitoglu , Businessman 
 1. Mujkić Alma, Roditelj
 1. Paola Lucchesi, Prevodioc, writer, predsjednik udruženja. Strana državljanka u BiH.
-
+1. Hodzic Silma, doktor medicine
+1. Nihad Ahmic, Magistar međunarodnih odnosa, profesor engleskog jezika
+1. Sefika Ahmic, Roditelj
+1. Amra Makić , Prosvjetni radnik
+1. Halid Makić , Profesor, Univerzitet u Bihaću
+1. Admir Herić, Roditelj dvije bivše učenice Sarajevo koledža
+1. Ilhana Makic , Učenica
+1. Mangic Sanel, Profesor
+1. Lejla Zećo, Student Burch Univerziteta
+1. Faruk Hamzić, Student
+1. Lejla Music, Roditelj
+1. Lejla Music, Roditelj,
+1. Amer Lolić, Radnik
+1. Benjamin Murtic, Student
+1. Bejda Lolic, Inzinjer
+1. Razija Lolic, Penzioner
+1. Benjamin Murtic , Student
+1. Amir Kalem, Student
+1. Adem Mujanović, Student
+1. Murat Ozsarp , Fıtnes Teacher
+1. Amir Imširović, Radnik
+1. Sabina Tinjić, Student
+1. Zerina Novalić, Radnik
+1. Hamdija Cekic,, Pravnik
+1. Mahira Milanovic ,
+1. Zinajda Ruznic, Ucenik srednje Ekonomske skole Bihac
+1. Ismail Bozdag, Pedagog
+1. Arman Suljić, Student
+1. Almedin Omerovic, Profesor
+1. Kada Julardzija Omerovic, Ekonomski tehnicar
+1. Alija Harbaš, Penzioner
+1. Edin Gverić, radnik
+1. Farik Mešić, Student
+1. Selma Huskić, Radnik van BiH
+1. Melisa Imširović, Radnik van BiH
+1. Refika Pajić, Radnica van BiH
+1. Benjamin Pajić, Državljanin Austrije
+1. Edisa Mušić, Radnik van BiH
+1. Edis Mušić, Državljanin Republike Hrvatske
+1. Amar Mušić, Državljanin Republike Hrvatske
+1. Ifet Huskić, Radnik van BiH
+1. Ismet Kličić, Radnik van BiH
+1. Emina Kličić, Radnica van BiH
+1. AnaMarija Okić, Državljanin Republike Hrvatske
+1. Selime Okić, Pemzioner
+1. Šemsa Okić,
+1. Edisa Mujkanović, Roditelj
+1. Almir Mujkanović, Roditelj
+1. Nurfet Kuric, Otac učenica
+1. Ademir Mesić, Nezaposlen
+1. Dogic minka, Roditelj
+1. Dženan Ramić, Učenik
+1. Elvis Fajkovic, Radnik
+1. Fatima Djedovic, Profesor
+1. Almedina Aganovic, Drzavljanka BiH
+1. Armel Habibija, Magistar kriminalistike (UNSA)
+1. Zajim Djedovic, Radnik
+1. Sadeta Djedovic, Penzioner
+1. Esma Hamidović ,
+1. Samira Hodžić, Roditelj bivše učenice IST-a
+1. Nadina Hodžić, Studentica Političkih nauka i međunarodnih odnosa, SSST
+1. Belmin Basic, Student
+1. Ismail Dervisevic, Student
+1. Emina Alihodžić, Student
+1. Sekib Selimovic, Penzioner
+1. Ibrahim Gajnulovic , Student
+1. Muharem Hasić, Profesor
+1. Aida Zulic, Radnik
+1. Demir Ahmetovic, Student
+1. Ajan-Rijad Mukabel, Student, Unsa
+1. Erna Smajlović, Student
+1. Belmin Subasic, Student
+1. Nursen ersan, Domacica
+1. Alma Midzic, Roditelj
+1. Ismet Fazlić, Šumarstva inžinjer
+1. Nursen ersan, Ev hanımı
+1. Sena Kutub, Prosvjetni radnik
+1. Sejla Durgutovic, Student
+1. Semir Mujkić, Student
+1. Minela Haskic-Velic, Roditelj
+1. Dzemal Velic, Roditelj
+1. MIRZET SELIMOVIC, Roditelj
+1. Adna Pajazetovic, Ucenik
+1. Haris Alibegić, Elektricar
+1. Amar Bradarac , Student
+1. Enes Pascanovic, Roditelj
+1. Aida Fojnica, Čovjek
+1. Benjamin Šahinovic, (Kum Benjo) student medicine 1.klasa
+1. Mehmet karsli, Profesor
+1. Rešad Hadžiavdić,  Analitičar
+1. Anel ikanovic, Dipl.socijalni radnik
+1. Eldin Ćoralić, Ugostitelj
+1. Mirza Mulaosmanović , Doktor medicine
+1. Ibrahim Mujala, Student
+1. Senad Karavdić, Hirurg
+1. Semir Crnolić,
+1. Mirsada Crnolić,
+1. Edin Lisinovic, Student pravnog fakulteta u Tuzli
+1. Šemsudin Beganović, Radnik
+1. Jasmina Alagic, Inzenjer
+1. Ekmecic Merima , roditelj
+1. Zineta Durdzic , Prosvjetni radnik
+1. Advija Delic, Penzioner
+1. Mirela Abdić,  Nastavnik
+1. Sej Ramić, Profesor likovne kulture
+1. Merima Ekmecic, Roditelj
+1. Dženad Pjanić, Marketing menadžer
+1. Erna Rahmanovic , Radnik
+1. Elvira Selimović, Učiteljica
+1. Emilja Becic, Profesor
+1. Naza Pehlic Aganovic, Stanovnik USK /Kantona/ Drzavljanka BiH...!!!
+1. Belmin Rošić, Student
+1. Dino Keškić, Student Zdravstvenog fakulteta u Bihaću
+1. Nihad Hadzibegic, Poduzetnik
+1. Edina Hadzic, Prosvjetni radnik
+1. Osman Fatusic, Ucenik
+1. Marina Beganovic, Hemijski tehnicar
+1. Elvis Muminovic, Radnik
+1. Snezana Kapidzic, Dipl. el. inzinjer
+1. Nermina Muminovic, Radnik
+1. Semir Bjelak, Radnik
+1. Fikreta Terzic, Radnik i roditelj
+1. Almir Sijercic, Tehnolog
+1. Sabina Jasarevic, Roditelj
+1. Bejtul Jılmaz, Profesorica
+1. Elvir Ćiber, mag.el.tehnike, roditelj
+1. Huremagić Adna, Student
+1. Benjamin Ekmečić, Poduzetnik
+1. Irhada Halilović, Profesor
+1. Mustafa Murić, Penzioner
+1. Ferida Murić, Penzionerka
+1. Osman Salihovic, Programer
+1. Haris Grbešić, STUDENT
+1. Senad Becirovic, Profesor
+1. Kaukovic Senada, Prosvjetni ranik
+1. Emina Dzino Bader, Student
+1. Sulejman mašić, penzioner
+1. İsmail korkmaz, Profesor turskog jezika
+1. Vehid Kurtic, Nastavnik
+1. Azra Hajdarević, Inžinjer genetike
+1. Cehajic Azr, Penzioner
+1. , kasim Gerzic roditelj
+1. kasim  gerzic, roditelj
+1. Jasmin Pašić, Profesor
+1. Armel Habibija, Magistar kriminalistike
+1. Muhamed Sosic, Student
+1. Jasmin Salihovic, Profesor
+1. Haris Komic, Roditelj
+1. Zenaida Mehmedbegovic-Jarebica,
+1. Mensud Šahinović, Dipl.ecc
+1. Alma Grozdanic, Roditelj
+1. Amina Kišić, Student
+1. Zekir Dubičić,
+1. Safet Begic, Roditelj
+1. Elvis Banjic,
+1. Nasuh Sungur, Direktor, profesor
+1. Adela Jahic, Visi asistent na Edukacijsko-rehabilitacijskom fakultetu
+1. Valentina Sose, Službenik
+1. Igor Dupanovic, Roditelj
+1. Nisveta Dupanovic, Roditelj
+1. Tarik Mustedanagić, Sith Lord
+1. Mejrema Mustedanagić, Student tehničke hemije
+1. Nursen Ersan , Ev hanımı
+1. Amir Pečenkoivć, Student
+1. Admir Osmanović , Učenik
+1. Suada Kovačević, Penzioner, majka bivšeg učenika
+1. Sefika kapic , Radnik
+1. Amela Dupanovic, Bacc. zdravstva
+1. Fehim Karovic, Radnik
+1. Zilha Hrnjić, Radnik
+1. Ajla Avdic,
+1. Selma Fuško , Student
+1. Jasmin Baltic, Roditelj
+1. Ismeta Baltic, Roditelj
+1. Dogic Sabo, Roditelj
+1. Jasmina Ejubović , Student
+1. Selma Alagić, Student
+1. Jusić Irma, Ekonomista
+1. Hasnija Velagić,
+1. Fatima Alagić,
+1. Neira Ramakić, radnik
+1. Azur Avdic,
+1. Damir lajić, Student
+1. Pećanin Eldina,
+1. Bakir Izetbegović, Nezaposlen
+1. Tijana Nikolic, Student
+1. Senada Beguc, Roditelj učenika, radnik
+1. Mersada Kasupovic, Roditelj
+1. Husein Kasupovic, Roditelj
+1. Irhada Halilović, Profesorica
+1. Sabina Pecanin,
+1. Jasminka Crnkić, profesor u penziji
+1. Semir Šafro, Radnik
+1. Mahida Šafro, Radnica
+1. Mensura Catovic, Profesor u penziji
+1. Jasminka Hadzic, Penzioner
+1. Ezana Ćeman, Student, Pace University
+1. Edija Perviz ,
+1. Šerifa Mujic , Roditelj
+1. Alma Korjenic, Radnik
+1. Tugba Ilhan, Teacher
+1. Huremagic Amela, roditelj
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
-**Radi velikog broja novih potpisa vaš potpis će na listu biti dodan sutra ujutro. Molimo za razumijevanje! U našoj bazi je trenutno registrovano oko 1200 potpisnika**
+**Radi velikog broja novih potpisa vaš potpis će na listu biti dodan sutra ujutro. Molimo za razumijevanje! U našoj bazi je trenutno registrovano oko 1400 potpisnika**
