@@ -54,7 +54,6 @@ Potpisuju:
 1. Iman Hodžić, Student
 1. Adilajda Omanović, Student Business administration na UniGraz-u,Dobitnica brončane medalje na Golden Climate takmičenju u Keniji
 1. Enesa Saric, Master student
-1. Amar Pašagić, Učenik Richmon Park College Bihać
 1. Nedim Bajramović, Student
 1. Nazmiye Tuzen, Profesor
 1. Džejlana Karajić, Studentica Informatike na Univerzitetu u Passau
@@ -1469,7 +1468,6 @@ Potpisuju:
 1. Azur Avdic,
 1. Damir lajić, Student
 1. Pećanin Eldina,
-1. Bakir Izetbegović, Nezaposlen
 1. Tijana Nikolic, Student
 1. Senada Beguc, Roditelj učenika, radnik
 1. Mersada Kasupovic, Roditelj
@@ -1487,6 +1485,40 @@ Potpisuju:
 1. Alma Korjenic, Radnik
 1. Tugba Ilhan, Teacher
 1. Huremagic Amela, roditelj
+1. Ajdin Ćosić, Student
+1. Sead Delic, Student
+1. Nevres Hodžić, Inžinjer elektrotehnike 
+1. Nejla Kantarevic, Student
+1. Armin Amidžić, Vijećnik u GV Bihać
+1. Arman Dupanović, Student
+1. Arnautovic Refija , 
+1. Velid Horić, 
+1. Ekrem Duranović, 
+1. Najda Makic, Prosvjetni radnik
+1. Aldin Kovačević, Student
+1. Kenan Osmanbegović, pravnik
+1. Alejna Hušić, Student
+1. Sadija Kukuryzivic, Roditelj
+1. Mirzad Kukuruzovic, Roditelj
+1. Samir Lacevic, roditelj bivseg ucenika
+1. Nejra Lacevic, Student
+1. Damir lajić, Student
+1. Hassan Selimovic, Ucenik
+1. Edin Turanović, Radnik
+1. Haris Samardzic, Student
+1. Suad Trokić, Penzioner
+1. Fatima Begić, Pravnik
+1. Omer Faruk Bukurević, Učenik 4. razreda Gimnazije "Visoko"
+1. Harun Havic, 
+1. Sabina Bukurević, roditelj
+1. Edin Hebibovic, Dipl. ecc
+1. Besim Mujnovic , Roditelj ucenika
+1. Jusuf Brkic , Radnik
+1. Vladimira Larma, Profesor
+1. Sabaheta Cosic, Penzioner
+1. Raško Dizdarević, Radnik
+1. Nuhanovic Zahra, Domaćica 
+1. Mehmed Sabic, penzioner
 
 [Postanite potpisnik klikom na link: OVDJE](https://docs.google.com/forms/d/e/1FAIpQLSevFcHipqN9Xkdq9Im1RIP68rH5Ps4q_gj3SordIPZ26PFD7w/viewform?usp=sf_link)
 
